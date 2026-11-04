@@ -84,7 +84,7 @@ The chat trigger sends user questions to the AI Agent, which invokes a vector-st
 
 ### Workflow execution and indexed vectors
 
-![Successful n8n workflow execution overview](screenshots/workflow-execution.png)
+![Successful n8n workflow execution overview](screenshots/workflow-executionn.png)
 
 ![Qdrant vector collection overview](screenshots/qdrant-collection-overview.png)
 
